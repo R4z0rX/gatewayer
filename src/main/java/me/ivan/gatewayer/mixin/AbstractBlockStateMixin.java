@@ -2,7 +2,6 @@ package me.ivan.gatewayer.mixin;
 
 import me.ivan.gatewayer.Gatewayer;
 import net.minecraft.block.AbstractBlock;
-import net.minecraft.block.BlockState;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.util.ActionResult;
 import net.minecraft.util.Hand;

@@ -1,0 +1,12 @@
+{
+	"gatewayer.has_block_entity": "Tiene Block entity",
+	"gatewayer.non_block_entity": "No tiene Block entity",
+	"gatewayer.gateway": "Gateway",
+	"gatewayer.gateway_position": "Gateway en %s",
+	"gatewayer.entity_exit_position": "Entidades saldrán en %s",
+	"gatewayer.exit_portal": "Portal de salida: %s",
+	"gatewayer.no_exit_portal": "No hay portal de salida todavía",
+	"gatewayer.cooling_down": "Enfriando... %d",
+	"gatewayer.ready_to_teleport": "Listo para teleportar",
+	"gatewayer.exact_teleport": "Teleporte Exacto"
+}

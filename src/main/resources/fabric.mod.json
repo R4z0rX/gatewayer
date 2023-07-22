@@ -8,6 +8,9 @@
   "authors": [
     "Ivan-YF"
   ],
+  "contributors": [
+    "RazrCraft"
+  ],
   "contact": {
     "homepage": "https://github.com/Ivan-YFw/Gatewayer",
     "sources": "https://github.com/Ivan-YFw/Gatewayer"
@@ -26,8 +29,8 @@
   ],
 
   "depends": {
-    "fabricloader": ">=0.7.4",
-    "minecraft": "1.18.x"
+    "fabricloader": ">=0.14.21",
+    "minecraft": "1.20.1"
   },
   "accessWidener": "gatewayer.accesswidener",
   "suggests": {
